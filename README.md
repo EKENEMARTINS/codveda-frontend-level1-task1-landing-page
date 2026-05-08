@@ -36,9 +36,9 @@ The project demonstrates semantic HTML, modern CSS styling, responsive layouts, 
 (After deployment, paste Netlify/Vercel link here)
 
 ## 📂 GitHub Repository
-[](https://github.com/EKENEMARTINS/codveda-frontend-level1-task1-landing-page/edit/main/README.md)
+[](https://github.com/EKENEMARTINS/codveda-frontend-level1-task1-landing-page)
 
 ## 👨‍💻 Author
 **Ekene Martins Okoro**
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourlinkedin
+- GitHub: https://github.com/EKENEMARTINS
+- LinkedIn: https://linkedin.com/in/ekene-martins-okoro-41a51b383
