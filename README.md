@@ -32,6 +32,12 @@ The project demonstrates semantic HTML, modern CSS styling, responsive layouts, 
 ### Mobile View
 ![Mobile](mobile.PNG)
 
+### Light mode
+![Light mode](light.PNG)
+
+### Dark mode
+![Dark mode](dark.PNG)
+
 ## 🌍 Live Demo
 (After deployment, paste Netlify/Vercel link here)
 
