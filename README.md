@@ -39,10 +39,10 @@ The project demonstrates semantic HTML, modern CSS styling, responsive layouts, 
 ![Dark mode](dark.PNG)
 
 ## 🌍 Live Demo
-[(After deployment, paste Netlify/Vercel link here)](https://codveda-landingpage-ekene.netlify.app/)
+[(Demo link)](https://codveda-landingpage-ekene.netlify.app/)
 
 ## 📂 GitHub Repository
-[](https://github.com/EKENEMARTINS/codveda-frontend-level1-task1-landing-page)
+[GitHub Repository](https://github.com/EKENEMARTINS/codveda-frontend-level1-task1-landing-page)
 
 ## 👨‍💻 Author
 **Ekene Martins Okoro**
