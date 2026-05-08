@@ -24,13 +24,13 @@ The project demonstrates semantic HTML, modern CSS styling, responsive layouts, 
 
 ## 📸 Screenshots
 ### Desktop View
-![Desktop](screenshots/desktop.png)
+![Desktop](desktop.PNG)
 
 ### Tablet View
-![Tablet](screenshots/tablet.png)
+![Tablet](ipad.PNG)
 
 ### Mobile View
-![Mobile](screenshots/mobile.png)
+![Mobile](mobile.PNG)
 
 ## 🌍 Live Demo
 (After deployment, paste Netlify/Vercel link here)
